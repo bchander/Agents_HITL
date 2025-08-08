@@ -1,0 +1,11 @@
+what is the today's date
+list the wonders of the world, as available from Wikipedia
+summarize the current status of the Iran Israel war
+evaluate math expression 2+3-(25/5)+50
+What is the main idea of the research paper 'LM2: Large Memory Models' published by Kang. Summarize the abstract
+Evaluate the python code len([x for x in range(1, 21) if x % 2 == 0])
+what is today's weather in bangalore
+summarize the video discussion in the youtube link - https://www.youtube.com/watch?v=n5ksOqcBWoQ
+What are the types of agents in AI as explained in this URL - https://cloud.google.com/discover/what-are-ai-agents
+explain the word 'faith' from dictionary
+convert 27 dollars to indain rupees

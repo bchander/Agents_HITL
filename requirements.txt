@@ -1,0 +1,18 @@
+gradio>=4.16.0
+requests
+langchain==0.3.25
+langgraph
+langchainhub
+huggingface-hub
+langchain-huggingface
+langchain-community
+transformers
+langchain-openai
+beautifulsoup4
+PyMuPDF
+pandas
+pillow
+DateTime
+arxiv
+youtube-transcript-api
+# yt_dlp
